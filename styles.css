@@ -1,0 +1,32 @@
+/* font-family: 'Yeon Sung', cursive;
+font-family: 'Liu Jian Mao Cao', cursive;
+font-family: 'Sunshiney', cursive; */
+body {
+    font-family: "Sunshiney", cursive;
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    margin: 15px 35px 45px 35px;
+}
+h1 {
+    text-align: center;
+    font-size: 2rem;
+}
+/* IMAGE: PIE CHART */
+#img0 {
+    width: 15%;
+    height: auto;
+    margin-left: 42.5%;
+    margin-right: 42.5%;
+
+}
+#img1, #img2, #img3, #img4, #img5, #img6, #img7, #img8, #img9, #img10 {
+    width: 15%;
+    height: auto;
+    margin-left: 42.5%;
+    margin-right: 42.5%;
+    border: 1px black solid;
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
